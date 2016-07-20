@@ -188,6 +188,8 @@ Using a _media query_ in this way creates a _breakpoint_, a point at which chang
 
 ## The _Responsive_ Holy Grail Layout
 
+![Holy Grail](images/holy-grail.jpg)
+
 The _Holy Grail Layout_ is a common problem in CSS to layout a page. We want to make it _responsive_ as well so that it has the following behavior:
 
 | Device        | Layout        | Typical Width       |
