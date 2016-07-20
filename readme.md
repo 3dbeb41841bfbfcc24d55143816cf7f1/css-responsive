@@ -186,9 +186,9 @@ Using a _media query_ in this way creates a _breakpoint_, a point at which chang
 
 [Building a Responsive Grid - Part 2](http://codepen.io/drmikeh/pen/JKLYxN)
 
-## The Holy Grail Layout
+## The _Responsive_ Holy Grail Layout
 
-The _Holy Grail Layout_ is a common problem in CSS to layout a responsive page with the following behavior:
+The _Holy Grail Layout_ is a common problem in CSS to layout a page. We want to make it _responsive_ as well so that it has the following behavior:
 
 | Device        | Layout        | Typical Width       |
 |:-------------:|:-------------:|:-------------------:|
@@ -277,11 +277,10 @@ Here is the above example as a codepen: [Holy Grail Layout with Flexbox](http://
 
 Responsive layout has become increasingly important as tablets and smart phones have become increasingly popular. We want to design our web site to look great and be UX friendly on any devise. By using modern CSS layout methods (such as _media queries_ and _flexbox_) we can ___finally___ achieve the _Holy Grail_ of web page design!
 
-
-
 ---
 
 ## References
 
- * [Holy Grail Layout - Wikipedia](https://en.wikipedia.org/wiki/Holy_Grail_(web_design))
- * [What is a Grid-View?](http://www.w3schools.com/css/css_rwd_grid.asp)
+* [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Holy Grail Layout - Wikipedia](https://en.wikipedia.org/wiki/Holy_Grail_(web_design))
+* [What is a Grid-View?](http://www.w3schools.com/css/css_rwd_grid.asp)
